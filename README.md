@@ -18,9 +18,6 @@ Once the above commands have executed successfully, navigate to the folder where
 Use the below-mentioned command to execute the tests:
 rspec Google_Tests.rb --format documentation
 
-If the tests are executed successfully, the output should be received in the below format:
-image.png
-
 Please note that I have refrained from implementation of proper POM and RSpec formatting structure due to lack of time for completion of the test. Given sufficient time, I can share a sample of code that I have on GitHub under my account that depicts a similar approach with using POM but no testing tool such as RSpec.
 
 Please feel free to get in touch with me regarding any queries on the above.
